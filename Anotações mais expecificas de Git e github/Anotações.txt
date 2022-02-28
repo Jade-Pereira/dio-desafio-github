@@ -1,0 +1,13 @@
+Todos os comandos usados possuem variancia, possuem flegs, ou seja, complementos que passam por esses comandos onde eles acrescentam, modificam ou formatam a forma como esses comandos são devolvidos.
+
+WINDOWS : 
+cd = ACESSAR
+dir = LISTAR
+mkdir = CRIAR PASTA
+del OU rmdir = APAGAR
+
+UNIX:
+cd = ACESSAR
+ls = LISTAR
+mkdir = CRIAR PASTA 
+rm OU fr = APAGAR
